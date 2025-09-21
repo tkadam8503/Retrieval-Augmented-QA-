@@ -1,0 +1,11 @@
+# Core
+numpy>=1.24
+scikit-learn>=1.3
+
+# Retrieval (primary)
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+
+# Optional LLM answer synthesis (greedy)
+transformers>=4.42.0
+accelerate>=0.33.0
